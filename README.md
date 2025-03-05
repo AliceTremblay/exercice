@@ -33,16 +33,13 @@ Pour chacune des pages ci-dessous:
 * __Utiliser la barre d'outil de développement pour inspecter les images__ et juger de la qualité des attributs *alt*. __Prendre une capture-écran et la joindre ci-dessous.__
 *  __Les textes alternatifs sont-ils adéquats ?__ Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
  
-[capture-écran-à-ajouter]()
+![alt text](image.png)
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran-à-ajouter]()
+Les alt des images sont le titre des articles. Cependant, l'image en tant que tel n'est pas décrite. On pourrait simplement décrire l'image et mettre le titre de l'article à la fin.
+
+![alt text](image-1.png)
 - https://www.rad.ca/  
------
------
------ 
+Les textes sont adéquat puisqu'ils expliquent ce qu'on retrouve dans l'image. Cela permet de savoir ce que l'image de l'article montre. 
  
  
 
@@ -59,10 +56,8 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/2-table-des-matieres_h1-h6/2-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
 ----
-----
-----
+Les textes sont bien balisé. On y voit le H1 et les H2. 
 
 __L’affaire Savtchenko__ 
 [Article](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko.pdf)  
@@ -70,9 +65,8 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+Le premier H1 n'est pas inscrit dans la page. C'est une information importante qui manque. 
+
 
 
 #### 2.2 S'exercer à bien structurer
@@ -81,7 +75,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- ![alt text](images/2-table-des-matieres_h1-h6/2-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 3. Baliser un tableau de données pour qu’il soit accessible
 
